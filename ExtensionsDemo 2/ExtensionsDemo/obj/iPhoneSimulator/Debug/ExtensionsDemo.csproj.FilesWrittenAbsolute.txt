@@ -1,0 +1,9 @@
+/Users/hankch/Downloads/ExtensionsDemo 2/ExtensionsDemo/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/hankch/Downloads/ExtensionsDemo 2/ExtensionsDemo/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/hankch/Downloads/ExtensionsDemo 2/ExtensionsDemo/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/hankch/Downloads/ExtensionsDemo 2/ExtensionsDemo/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/hankch/Downloads/ExtensionsDemo 2/ExtensionsDemo/obj/iPhoneSimulator/Debug/optimized/
+/Users/hankch/Downloads/ExtensionsDemo 2/ExtensionsDemo/bin/iPhoneSimulator/Debug/ExtensionsDemo.exe.mdb
+/Users/hankch/Downloads/ExtensionsDemo 2/ExtensionsDemo/bin/iPhoneSimulator/Debug/ExtensionsDemo.exe
+/Users/hankch/Downloads/ExtensionsDemo 2/ExtensionsDemo/obj/iPhoneSimulator/Debug/ExtensionsDemo.exe
+/Users/hankch/Downloads/ExtensionsDemo 2/ExtensionsDemo/obj/iPhoneSimulator/Debug/ExtensionsDemo.exe.mdb

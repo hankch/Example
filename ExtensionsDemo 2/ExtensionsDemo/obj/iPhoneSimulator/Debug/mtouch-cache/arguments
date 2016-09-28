@@ -1,0 +1,38 @@
+# Version: 10.0.1.8 (cycle8-sr0-xi: 3983064)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.iOS.framework/Versions/10.0.1.8/lib/mtouch/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/10.0.1.8/lib/mtouch/mtouch.exe \
+	--cache \
+	"/Users/hankch/Downloads/ExtensionsDemo 2/ExtensionsDemo/obj/iPhoneSimulator/Debug/mtouch-cache" \
+	--sim \
+	"/Users/hankch/Downloads/ExtensionsDemo 2/ExtensionsDemo/bin/iPhoneSimulator/Debug/ExtensionsDemo.app" \
+	--executable \
+	ExtensionsDemo \
+	--debug \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	10.0 \
+	--targetver \
+	8.0 \
+	--http-message-handler=HttpClientHandler \
+	--tls-provider=default \
+	--abi=i386 \
+	--symbollist \
+	"/Users/hankch/Downloads/ExtensionsDemo 2/ExtensionsDemo/obj/iPhoneSimulator/Debug/mtouch-symbols.list" \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	--app-extension \
+	"/Users/hankch/Downloads/ExtensionsDemo 2/EvolveCountdownWidget/bin/iPhoneSimulator/Debug/EvolveCountdownWidget.appex" \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	"/Users/hankch/Downloads/ExtensionsDemo 2/ExtensionsDemo/bin/iPhoneSimulator/Debug//ExtensionsDemo.exe" \

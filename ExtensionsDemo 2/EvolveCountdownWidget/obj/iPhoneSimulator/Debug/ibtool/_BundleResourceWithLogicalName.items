@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/MainInterface.storyboardc/EvolveCountdownViewController.nib">
+      <LogicalName>MainInterface.storyboardc/EvolveCountdownViewController.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/MainInterface.storyboardc/Info.plist">
+      <LogicalName>MainInterface.storyboardc/Info.plist</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhoneSimulator/Debug/ibtool-link/MainInterface.storyboardc/M4Y-Lb-cyx-view-S3S-Oj-5AN.nib">
+      <LogicalName>MainInterface.storyboardc/M4Y-Lb-cyx-view-S3S-Oj-5AN.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

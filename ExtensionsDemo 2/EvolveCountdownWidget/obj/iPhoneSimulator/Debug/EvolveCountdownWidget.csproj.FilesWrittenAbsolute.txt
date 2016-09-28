@@ -1,0 +1,11 @@
+/Users/hankch/Downloads/ExtensionsDemo 2/EvolveCountdownWidget/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/hankch/Downloads/ExtensionsDemo 2/EvolveCountdownWidget/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/hankch/Downloads/ExtensionsDemo 2/EvolveCountdownWidget/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/hankch/Downloads/ExtensionsDemo 2/EvolveCountdownWidget/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/hankch/Downloads/ExtensionsDemo 2/EvolveCountdownWidget/obj/iPhoneSimulator/Debug/optimized/monkey.png
+/Users/hankch/Downloads/ExtensionsDemo 2/EvolveCountdownWidget/obj/iPhoneSimulator/Debug/optimized/monkey@2x.png
+/Users/hankch/Downloads/ExtensionsDemo 2/EvolveCountdownWidget/obj/iPhoneSimulator/Debug/optimized/
+/Users/hankch/Downloads/ExtensionsDemo 2/EvolveCountdownWidget/bin/iPhoneSimulator/Debug/EvolveCountdownWidget.dll.mdb
+/Users/hankch/Downloads/ExtensionsDemo 2/EvolveCountdownWidget/bin/iPhoneSimulator/Debug/EvolveCountdownWidget.dll
+/Users/hankch/Downloads/ExtensionsDemo 2/EvolveCountdownWidget/obj/iPhoneSimulator/Debug/EvolveCountdownWidget.dll
+/Users/hankch/Downloads/ExtensionsDemo 2/EvolveCountdownWidget/obj/iPhoneSimulator/Debug/EvolveCountdownWidget.dll.mdb

@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{DCAD2FEF-45A2-472E-9965-4A4D19A40607}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExtensionsDemo/ExtensionsDemoViewController.cs">
+    <Files>
+      <File FileName="ExtensionsDemo/ExtensionsDemoViewController.cs" Line="74" Column="1" />
+      <File FileName="EvolveCountdownWidget/EvolveCountdownViewController.cs" Line="27" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/hankch/Downloads/ExtensionsDemo 2/ExtensionsDemo/ExtensionsDemoViewController.cs" line="61" column="1" />
+      <Breakpoint file="/Users/hankch/Downloads/ExtensionsDemo 2/ExtensionsDemo/ExtensionsDemoViewController.cs" line="41" column="1" />
+      <Breakpoint file="/Users/hankch/Downloads/ExtensionsDemo 2/ExtensionsDemo/ExtensionsDemoViewController.cs" line="67" column="1" />
+      <Breakpoint file="/Users/hankch/Downloads/ExtensionsDemo 2/ExtensionsDemo/ExtensionsDemoViewController.cs" line="69" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExtensionsDemo PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+</Properties>
